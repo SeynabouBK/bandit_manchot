@@ -22,7 +22,7 @@ class _BanditManchotHomePageState extends State<BanditManchotHomePage> {
   ];
 
   List<String> displayedImages =
-      []; //Contient les trois images actuellement visibles.
+      []; //Contient les trois images actuellement visibles.//
   Random random = Random();
 
   bool isPlaying =
