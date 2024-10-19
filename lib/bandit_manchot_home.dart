@@ -115,7 +115,7 @@ class _BanditManchotHomePageState extends State<BanditManchotHomePage> {
                                     fontSize: 18, color: Colors.white),
                               ),
                               backgroundColor: Colors.green,
-                              duration: Duration(seconds: 2),
+                              duration: Duration(seconds: 2), //
                             ),
                           );
                         }
